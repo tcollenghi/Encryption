@@ -1,0 +1,12 @@
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\bin\Debug\d3nce_aesmaster.exe.config
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\bin\Debug\d3nce_aesmaster.exe
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\bin\Debug\d3nce_aesmaster.pdb
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\bin\Debug\MaterialSkin.dll
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\obj\Debug\encrypt.csprojAssemblyReference.cache
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\obj\Debug\d3nce_aesmaster.main.resources
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\obj\Debug\d3nce_aesmaster.Properties.Resources.resources
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\obj\Debug\encrypt.csproj.GenerateResource.cache
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\obj\Debug\encrypt.csproj.CoreCompileInputs.cache
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\obj\Debug\encrypt.csproj.CopyComplete
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\obj\Debug\d3nce_aesmaster.exe
+H:\_GIT\winformsencrypttool-master\winformsencrypttool-master\d3nce_aesmaster\obj\Debug\d3nce_aesmaster.pdb
